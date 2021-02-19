@@ -2,8 +2,8 @@
 
 This web application is built with react and nodejs. It can lists all the stations in grid, and displays stations in a map.
 
-<img src="/docs/BixiStationsGrid.png" width="360" height="240">
-<img src="/docs/BixiStationsMap.png" width="360" height="240">
+<img src="/docs/BixiStationsGrid.png" width="300" height="200">
+<img src="/docs/BixiStationsMap.png" width="300" height="200">
 
 ## Run Bixi project in development mode
 
